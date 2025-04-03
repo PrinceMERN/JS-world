@@ -1,7 +1,7 @@
 let score = "33prince"
 
-// console.log(typeof score);
-// console.log(typeof (score))
+// console.log(typeof score); //String
+// console.log(typeof (score)) //String
 
 let valueInNumber = Number(score)
 
@@ -16,7 +16,7 @@ let valueInNumber = Number(score)
 let isLoggedIn = "1"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-// console.log(booleanIsLoggedIn)
+// console.log(booleanIsLoggedIn) //True
 
 // 1 => true
 // 0 => false
@@ -26,11 +26,12 @@ let someNumber = 33
 
 let turnSomeNumber = String(someNumber)
 // console.log(turnSomeNumber)
-// console.log(typeof turnSomeNumber);
+// console.log(typeof turnSomeNumber); //String
 
 let value = 5
 let netValue = -value
 console.log(netValue)
+console.log(value)
 
 // console.log(2+2) // Plus 4
 // console.log(2-2) // Minus 0
@@ -46,17 +47,19 @@ let str3 = str1 + str2
 console.log(str3)
 
 
-console.log("1" + 2);
-console.log(1 + "2");
-console.log("1" + 2 + 2)
-console.log( 1 + 2 + "2" )
-console.log( (3 + 2) * 4 % 5 )
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2)
+// console.log( 1 + 2 + "2" )
+// console.log( (3 + 2) * 4 % 5 )
 
 let num1, num2, num3
 
 num1 = num2 = num3 = 2 + 2
 
 console.log(num1)
+console.log(num2)
+console.log(num3)
 
 let gameCounter = 100
 gameCounter++;
