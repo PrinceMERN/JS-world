@@ -24,8 +24,8 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 let someNumber = 33
 
-let turnSomeNumber = String(someNumber)
-// console.log(turnSomeNumber)
+let turnSomeNumber = String(someNumber);
+// console.log(turnSomeNumber);
 // console.log(typeof turnSomeNumber); //String
 
 let value = 5

@@ -12,8 +12,9 @@ accountPassword = "122112"
 accountcity = "goa"
 console.log(accountId)
 
-/*
-Prefer not to use var because of issue in black scope and funcional scope 
-/*
 
-console.table([accountId, accountEmail,accountPassword,accountcity]);
+// Prefer not to use var because of issue in black scope and funcional scope
+
+console.table([accountId, accountEmail,accountPassword,accountcity]) 
+
+
