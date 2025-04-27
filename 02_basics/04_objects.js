@@ -6,7 +6,7 @@ tinderUser.id = "123hkk"
 tinderUser.name = "prince"
 tinderUser.isLoggedIn = false
 
-// console.log(tinderUser)
+console.log(tinderUser)
 
 const regularUser = {
     email: "prince@gmail.com",
@@ -93,7 +93,7 @@ navbar(company = "prince")
     {},
     {},
 
-]
+
 
 //  Random user me API
 
@@ -163,6 +163,7 @@ navbar(company = "prince")
       "version": "1.4"
     }
   }
+]
 
 // [[Prototype]]
 // : 
